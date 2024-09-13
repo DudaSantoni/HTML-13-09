@@ -1,0 +1,45 @@
+
+td, th{
+    border: 2px solid;
+    padding: 10px;
+    color: #000000;
+    border-color: rgb(255, 255, 255);
+}
+
+table{
+    background-color: #FFFF;
+    border-collapse: collapse;
+}
+
+.compre{
+    border-color: #F2F2F2;
+    background-color: #F2F2F2;
+    color: black;
+    width: 255px;
+}
+
+.empresa{
+    background-color: #555C66;
+    color: #F2F2F2;
+    width: 255px;
+}
+
+.avançar{
+    background-color: #E7516C;
+    color: #F2F2F2;
+    width: 255px;
+}
+
+.starter{
+    background-color: #70CF69;
+    color: #F2F2F2;
+    width: 255px;
+}
+
+.cinza{
+    background-color: #F5F7FA;
+}
+
+.planos{
+    height: 25px;
+}
